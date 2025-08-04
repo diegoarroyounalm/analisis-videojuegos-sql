@@ -18,11 +18,11 @@ Puedes ver y ejecutar el proyecto directamente aquí:
 
 ## 🧠 Preguntas que responde
 
-1. [¿Cuáles son los videojuegos más exitosos comercialmente?](images1.png)
-2. [¿Cuáles son los 10 años con mayor puntuación media de la crítica?](images2.png)
-3. [¿Cuáles son los 10 años con mayor puntuación media de los usuarios?](images3.png)
-4. [¿Qué años destacan tanto para usuarios como críticos?](images4.png)
-5. [¿Qué años combinaron calidad con éxito comercial?](images5.png)
+1. [¿Cuáles son los videojuegos más exitosos comercialmente?] (imagen1.png)
+2. [¿Cuáles son los 10 años con mayor puntuación media de la crítica?](imagen2.png)
+3. [¿Cuáles son los 10 años con mayor puntuación media de los usuarios?](imagen.png)
+4. [¿Qué años destacan tanto para usuarios como críticos?](imagen4.png)
+5. [¿Qué años combinaron calidad con éxito comercial?](imagen5.png)
 
 ## 💡 Objetivo
 
