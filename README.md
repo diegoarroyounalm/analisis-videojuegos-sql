@@ -41,6 +41,37 @@ Identificar si existe una "Edad Dorada" de los videojuegos, donde la calidad cr�
 - SQL
 - Ejecutado en [DataCamp Datalab](https://www.datacamp.com/datalab)
 
+# 📌 Conclusiones y Recomendaciones
+
+## 🎯 Conclusiones Clave
+
+### 🏆 Rendimiento por Año
+- **1998** destaca como el mejor año:  
+  ⭐ 9.52/10 (críticos) + 9.4/10 (usuarios)  
+  💰 177M+ unidades vendidas
+
+### 🎮 Juegos Top
+- **Wii Sports (2006)**:  
+  🚀 82.9M copias (récord absoluto)  
+- **Franquicias dominantes**:  
+  Nintendo (Mario, Pokémon, Wii) y PC (Counter-Strike, Minecraft)
+
+### 📊 Discrepancias
+- **2001**: Críticos 8.82 vs Usuarios 7.23  
+- **2016**: Críticos 8.67 vs Usuarios 6.95  
+
+## 🔧 Recomendaciones Estratégicas
+
+### 1. 🕵️ Investigar éxitos históricos
+- **Acción**: Analizar juegos de 1997-1999 (altas puntuaciones)  
+- **Objetivo**: Identificar patrones de diseño/narrativa  
+
+### 2. 🎨 Optimizar franquicias
+- **Focus**:  
+  - Nintendo: Capitalizar IPs existentes  
+  - PC: Potenciar títulos multijugador  
+
+
 ## 🚀 Autor
 
 **Diego Arroyo**  
